@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قائمة مهام</string>
+    <string name="main_activity_name">جميع المهام</string>
+    <string name="add_task_activity_name">أضف مهمة جديدة</string>
+
+    <!-- Strings for MainActivity -->
+    <string name="priority_1">1</string>
+    <string name="priority_2">2</string>
+    <string name="priority_3">3</string>
+
+    <!-- Strings for AddTaskActivity -->
+    <!-- This etaskEntrytask has a unicode character for "..." = "&#8230;" -->
+    <string name="edit_task_description">وصف المهمة&#8230;</string>
+    <string name="priority_string">الأولوية</string>
+
+    <string name="high_priority">مرتفع</string>
+    <string name="med_priority">متوسط</string>
+    <string name="low_priority">قليل</string>
+
+    <string name="add_button">أضف</string>
+    <string name="update_button">عدل</string>
+
+</resources>

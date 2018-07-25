@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- colors for general appearance -->
+    <color name="colorPrimary">#971CB0</color>
+    <color name="colorPrimaryDark">#4D0E59</color>
+    <color name="colorPrimaryLight">#C5CAE9</color>
+    <color name="colorAccent">#971CB0</color>
+
+    <!-- colors taskEntrytask priority selection -->
+    <color name="materialRed">#ec1313</color>
+    <color name="materialOrange">#ff8000</color>
+    <color name="materialYellow">#deef1d</color>
+
+</resources>
